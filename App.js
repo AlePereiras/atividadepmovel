@@ -33,7 +33,6 @@ const styles = StyleSheet.create({
     backgroundColor: '#FF7F50',
     alignItems: 'center',
     justifyContent: 'center',
-    Button: '#FF7F50'
   },
   app2:{
     flex: 1,
